@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Commonwealth of England the humble representation and desires of divers freeholders and others well affected to the Commonwealth of England, inhabiting within the county of Bedford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94584</idno>
+            <idno type="STC">Wing T1594</idno>
+            <idno type="STC">Thomason 669.f.21[51]</idno>
+            <idno type="STC">ESTC R211216</idno>
+            <idno type="EEBO-CITATION">99869946</idno>
+            <idno type="PROQUEST">99869946</idno>
+            <idno type="VID">163546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f21[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Commonwealth of England the humble representation and desires of divers freeholders and others well affected to the Commonwealth of England, inhabiting within the county of Bedford.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Brewster, at the Sign of the three Bibles in Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Praying that tithes may be abolished, toleration exercised in matters of religion, and "the militia speedily settled in the hands of such persons who have manifested the continuance of their integrity to the Good Old Cause."</note>
+                  <note>Annotation on Thomason copy: "June 17"; "June 16-17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+               <term>Bedfordshire (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163546:1" rendition="simple:additions"/>
+            <head>To the Parliament of the Commonwealth of <hi>ENGLAND:</hi> The humble Repreſentation and deſires of divers Freeholders and others well affected to the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> inhabiting within the County of <hi>Bedford.</hi>
+            </head>
+            <opener>SHEWETH:</opener>
+            <p>THat whereas we are fallen into thoſe times, wherein the overturnings of many foundations have been ſeen, and the deceitfulneſs of many hearts hath been made manifeſt, and many for their hypercriſie and rebellion againſt God have been made examples of his juſtice; and when they have ſhewed themſelves a while, have paſſed away, and their places have not been found, nor their names kept in remembrance: and theſe changes have been wrought by him who changeth not, and theſe overturnings have come to paſs that he might raign whoſe right it is. Now therefore if you be found ſtanding in like manner, in the ſame places, they will be as ſlippery to you as they were to thoſe that have both gone before and ſucceeded you; for the Lord hath appeared in great power and glory to ſtain the pride of all fleſh, and to bring to nought the counſels of the wicked, and to make the wrath of men to praiſe him, and the remainder of wrath will he reſtrain: and whereas the Lord hath again brought you into your places, and put a great price into your hands, Oh remember what the Lord hath done by you and for you in years paſt, what a Divine preſence attended your Counſels at home, and Armies abroad; and what a terror was upon your enemies round about: but how ſoon did you forget his wonders, when peace and proſperity entred your borders? were you not grown negligent in the work of the Lord? and for your remiſneſs might he not juſtly have given you up as a prey to the ſpoiler, and for your and our unthankfulneſs (for ſo great deliverances) did he not ſuffer you to be laid aſide that ſo others might come up to act their parts, who promiſed fair; but what is brought forth by them more than a lye, many are witneſſes. You have alſo ſeen them made an example before you; therefore take heed leſt you thirſt after that which they thirſted after, and were overturned. For if after all theſe things you ſhall again do the work of the Lord negligently, will not his diſpleaſure ſmoak againſt you above others? becauſe you hath he known and owned in time paſt. Therefore take heed to your ſelves, leſt fear and an evil he<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t ſurprize you, and weaken your hands: But be of good courage, and do the work of the Lord perfectly, with an upright heart (not fear<g ref="char:EOLhyphen"/>ing what man can do unto you) and let every abominable thing be removed, that ſo no brand may remain upon you; and then hearts and pray<g ref="char:EOLhyphen"/>ers of the upright will be for you, and the lives and eſtates of your Repreſenters ſhall freely be expoſed for your ſafety, in your proſecuting of theſe and other good and righteous things which we humby propoſe as followeth.</p>
+            <p n="1">I. That that great and intollerable burthen of Tithes (ſo long complained againſt) may be removed, which hath been brought in (many hun<g ref="char:EOLhyphen"/>dreds of years ſince the days of Chriſt) by the Pope, as a maintenance for his Miniſters, grounded upon miſinterpretation of Scripture, and the people being poſſeſſed that it would free them from the pains of Purgatory, and was teſtified againſt by our famous Reformers <hi>John Wickliff, Wal<g ref="char:EOLhyphen"/>ter Brute, VVilliam Thorp,</hi> and divers others who ſuffered in teſtimony againſt it, and other innovations, and is found in our dayes a very great oppreſſion to the Husbandman (it many times exceeding the full years value of the land) as alſo a great burthen on the conſciences of very many up right hearted people, who have ſuffered the ſpoiling of their goods, and impriſonment of their bodies, as a teſtimony againſt it (through the evil execution of bad Miniſters of the Law) which Law it ſelf is grounded upon a ſuppoſed precedent right, which is now found to have no footing in the Scriptures, nor ſound reaſon, on which all our Laws ought to be grounded. Yet ſo that reſpect be had, that ſome reaſonable ſatisfaction may be made to Impropriators according to equity and a good conſcience, but not by continuance of Tithe paying, and alſo that Mortuaries and all offerings and other like thin<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s may be quite rooted up.</p>
+            <p n="2">II. That the Common Law of this Commonwealth may be truly regulated (right reaſon being made the ground thereof) and plainly known in the Engliſh tongue what they are, and that all Actions of Treſpaſs, and things of ſmall value may be ſpeedily tried in every County, and that the chargable and tedious ſuits in the Chancery and Exchequer Chamber may either be regulated to le<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s charge, or taken away, and that no man be forced by oath or otherwiſe to be his own accuſer, and that none may be condemned or tried in Chambers or Corners, but in open Courts by the verdict of their Peers, and offenders may receive puniſhment proportionable to their offences. And that the Miniſters of the Law may be liable to juſt puniſhment, in caſe they act contrary to, or refuſe to do Juſtice according to law and equity; all which puniſhments to be aſcertained, and not left at will; and that all penal Laws which are a ſnare upon many good members of the Commonwealth may ſpeedily be repealed, and the reſt ſo abridged, as that the people may not of neceſſity be ignorant of any part of the Law under which they live. Alſo that no perſon that is to enter into any office be cauſed to take any oath, or make any ſolemn promiſe, which he ſhall not be able to perform, or cannot perform with a good conſcience.</p>
+            <p n="3">III. That proviſion may be made, that ſuch who live peaceably in godlineſs and honeſty, though of different perſwaſions in matters of faith and worſhip, may be equally protected and encouraged, and that the civil liberty of all perſons within this Commonwealth be ſo tendered, that nei<g ref="char:EOLhyphen"/>ther their perſons may be impriſoned, nor their goods taken away, without the breach of ſome known Law, and due proſecution thereupon. And that all ſuch Magiſtrates and Miniſters of Juſtice, Jaylors, Bailiffs, and others may be proceeded againſt, and made exemplary who have acted or ſhall act contrary hereunto.</p>
+            <p n="4">IV. That the <hi>Malitia</hi> of this Commonwealth may be ſpeedily ſetled in the hands of ſuch faithful perſons, who have manifeſted the continuance of their integrity to the <hi>Good old Cauſe</hi> of juſtice and freedom, and that all faithful perſons who have been ejected out of places of truſt military or civil, or for conſcience ſake have been neceſſitated to quit their employments, may be ſpeedily invited and reſtored to their former capacities, and that none for the future may be imployed in any place of truſt, but ſuch who are fitly qualified thereunto, and have (without declenſion) mani<g ref="char:EOLhyphen"/>feſted their good affection to the Commonwealth. And that ſpecial care may be had to keep off all flatterers and time ſervers.</p>
+            <p n="5">V. That Wills may be proved, and adminiſtration of goods and chattels granted in every County, and that all perſons may have power to ſue for their reſpective Legacies and Portions in every ſuch County, and that for the preventing of fraud, a Regiſter may be kept in each Coun<g ref="char:EOLhyphen"/>ty of all ſales of lands and mortgages, and things of like nature; and that Deodands may be taken off, and if any perſon ſhall kill either themſelves or others, yet their heirs and innocent families may not thereby be deprived of their right.</p>
+            <p n="6">VI. That as you thought fit to take away wardſhips as a badge of the Norman yoak, to the great eaſe of perſons of great eſtates (though they much enriched the publick Treaſury) ſo you would take ſome effectual courſe for the alteration of Coppy-hold tenures (as great a mark of Ty<g ref="char:EOLhyphen"/>ranny) that the poor Tenants thereof may not be left to the mercy of the Lords of ſuch Mannors (whileſt great men are made free) but may all have a proportionable taſte (in their capacities) of the benefit of a Commonwealths freedom.</p>
+            <p n="7">VII. That in due ſeaſon care may be taken, that the perſons intruſted with the Legiſlative power, may not be perpetuated in their power, but that all perſons within this Commonwealth may take of ſubjection as well as of rule; and in order thereunto that in convenient time pro<g ref="char:EOLhyphen"/>viſion may be made for an equal diſtribution of elections, and a due and ſafe electing of the Repreſentatives of this Commonwealth with ſuch due qualifications both of the Electors and Elected, as may conſiſt with the intereſt and welfare thereof, and that all thoſe who have not given ſome ſignal teſtimony of their good affection to the <hi>Good old cauſe,</hi> may be uncapable of being elected.</p>
+         </div>
+         <div type="response">
+            <p>This Repreſentation being read VVedneſday, June 16. the deliverers thereof were called in, and Mr. Speakers, by order of the Houſe, gave them this anſwer; <hi>Gentlemen,</hi> The Houſe hath read over you<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Repreſentation and Deſires, and they have obſerved the particulars, and therein find your good affections expreſſed; and for that the Houſe have commanded me to give you their Thanks, and I do give you the Thanks of this Houſe for your good affections; and as for the particulars in your Petition, the Houſe will take ſuch of them, as they ſhall find good for the Nation, into conſideration in due time.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Brewſter,</hi> at the Sign of the three Bibles in <hi>Paul</hi>'s Church-yard, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
